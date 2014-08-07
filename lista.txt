@@ -1,0 +1,7 @@
+seila|
+gato|
+hipopotamo|
+pato|
+periquito|
+cachorro|
+rato|
